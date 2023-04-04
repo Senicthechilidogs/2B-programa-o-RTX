@@ -1,1 +1,16 @@
+:root {
+    --azul-verdoso: #062726;
+    --negro-azulado: #102B3F;
+    --morado-forte: #6247AA;
+    --vinotinto: #533B4D;
+    --azul-menta: #EAF4F4;
+    --azul-polvo: #AFBCDF;
+}
+.cabecalho{
+    background-color: var(--azul-polvo);
+}
 
+.logo
+img{
+    width: 10%;
+}
